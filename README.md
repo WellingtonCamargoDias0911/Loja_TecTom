@@ -3,10 +3,6 @@
 
 Este é um projeto de site simples para uma loja fictícia chamada **TecTom**, que apresenta produtos como iPhone 16 e Galaxy S25, com um layout moderno e responsivo.
 
-## 📸 Demonstração
-
-![Screenshot](./assets/img/iphone_16.png)
-
 ## 📁 Estrutura do Projeto
 
 ```
@@ -41,7 +37,7 @@ loja-tectom/
 
 ## ✨ Autor
 
-Desenvolvido por [Seu Nome Aqui].
+Desenvolvido por [Dias].
 
 ---
 
